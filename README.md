@@ -2,9 +2,11 @@
 [![Jeongeun's github stats](https://github-readme-stats.vercel.app/api?username=Jeongeun-Choi&hide=stars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Tech Stacks
-<img src="https://img.shields.io/badge/javascript-ES6+-yellow?logo=javascript"/>
-<img src="https://img.shields.io/badge/react-17.0.1-1cf?style=flat&logo=React&logoColor=#61DAFB" />
-<img src="https://img.shields.io/badge/redux-4.0.5-purple?logo=redux"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-ES6+-yellow?logo=javascript"/>
+  <img src="https://img.shields.io/badge/react-17.0.1-1cf?style=flat&logo=React&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/redux-4.0.5-purple?logo=redux"/>
+</p>
 
 <!--
 **Jeongeun-Choi/Jeongeun-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
