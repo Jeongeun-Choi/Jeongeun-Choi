@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Jeongeun's github stats](https://github-readme-stats.vercel.app/api?username=Jeongeun-Choi&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Jeongeun's github stats](https://github-readme-stats.vercel.app/api?username=Jeongeun-Choi&hide=stars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Jeongeun-Choi/Jeongeun-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
