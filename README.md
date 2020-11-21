@@ -2,7 +2,7 @@
 [![Jeongeun's github stats](https://github-readme-stats.vercel.app/api?username=Jeongeun-Choi&hide=stars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Tech Stacks
-![react](https://img.shields.io/badge/react-17.0.1-#61DAFB?logo=react&logoColor=#61DAFB)
+[![react](https://img.shields.io/badge/react-17.0.1-#61DAFB?logo=react&logoColor=#61DAFB)](https://github.com/Jeongeun-Choi/Jeongeun-Choi)
 <!--
 **Jeongeun-Choi/Jeongeun-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
