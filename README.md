@@ -5,7 +5,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-ES6+-yellow?logo=javascript"/>
   <img src="https://img.shields.io/badge/react-17.0.1-1cf?style=flat&logo=React&logoColor=#61DAFB" />
-  <img src="https://img.shields.io/badge/redux-4.0.5-purple?logo=redux"/>
+  <img src="https://img.shields.io/badge/redux-4.0.5-purple?logo=redux"/>  
+  <img src="https://img.shields.io/badge/node.js-v15.2.1-green?logo=node.js"/>
 </p>
 
 <!--
